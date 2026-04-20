@@ -16,6 +16,8 @@ This is not hypothetical. On April 19, 2026, Vercel disclosed that a compromise 
 
 Most users have no idea which apps they have authorized, what scopes those apps hold, or how long ago they granted access. This skill fixes that in five minutes.
 
+KonaSense blog Post -> [Allow All is the new root](https://blog.konasense.com/allow-all-is-the-new-root).
+
 ## What it does
 
 1. Asks your permission to open `myaccount.google.com/permissions` in your own browser, through Claude in Chrome.
